@@ -6,49 +6,40 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-05-29 09:47 UTC_
+_Última actualización: 2026-05-30 08:24 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
 
 ## Real Instituto Elcano
 
-- **[La dimisión de Joe Kent por la guerra con Irán: reconfiguración de la política de seguridad y fracturas en el movimiento MAGA](https://www.realinstitutoelcano.org/analisis/la-dimision-de-joe-kent-por-la-guerra-con-iran-reconfiguracion-de-la-politica-de-seguridad-y-fracturas-en-el-movimiento-maga/)** · *2026-05-28*
-  - Mensajes clave[1] Análisis El pasado 17 de marzo, Joe Kent, director del NCTC de EEUU, dimitió alegando su oposición frontal a la guerra contra Irán, que considera injustificada y contraria a los intereses de Washington. En su carta,…
-- **[Administración y seguridad marítima españolas: situación y (posible) futuro](https://www.realinstitutoelcano.org/analisis/administracion-y-seguridad-maritima-espanolas-situacion-y-posible-futuro/)** · *2026-05-27*
-  - Mensajes clave[1] Análisis Resulta innegable que España es una nación marítima: lo es por situación geográfica, por estructura económica, y por supuesto por la Historia. Basta echar un vistazo a sus cifras para demostrarlo: es una…
-- **[“America First” en el ciberespacio: comentario a la estrategia cibernética de Trump para 2026](https://www.realinstitutoelcano.org/analisis/america-first-en-el-ciberespacio-comentario-a-la-estrategia-cibernetica-de-trump-para-2026/)** · *2026-05-26*
-  - Mensajes clave Análisis La estrategia cibernética de EEUU para 2026 marca un giro hacia un modelo basado en la soberanía, la disuasión y el uso integrado de todo el poder nacional, incluyendo capacidades ofensivas y geopolíticas…
-- **[No hay una “Little Caracas” en Madrid](https://www.realinstitutoelcano.org/comentarios/no-hay-una-little-caracas-en-madrid/)** · *2026-05-25*
-  - El pasado mes de febrero el Instituto Nacional de Estadística confirmó que, tras prácticamente doblar su número durante la última década, la población residente en España nacida en el extranjero había superado por primera vez el umbral de…
-- **[Perú se peruaniza](https://www.realinstitutoelcano.org/analisis/peru-se-peruaniza/)** · *2026-05-25*
-  - Mensajes clave Análisis Las elecciones presidenciales y legislativas del 12 de abril han confirmado que Perú es el mejor ejemplo latinoamericano de “peruanización” de la política y de los sistemas partidistas y electorales. Por…
+_Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.org/feed/](https://www.realinstitutoelcano.org/feed/)_
 
 ## BBC News Mundo
 
-- **["Tu avión se desvía 1.000 millas": la preocupante guerra invisible del GPS que está alterando el transporte aéreo](https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
-  - Los datos indican que la suplantación de GPS, que altera las señales de los satélites y confunde a los aviones, está aumentando
-- **[5 gráficos que muestran la Colombia que heredará el próximo presidente](https://www.bbc.com/mundo/articles/c893347kw1qo?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - El sucesor de Gustavo Petro gobernará un país con menos pobres, pero con serios retos de orden público.
-- **[Brooklyn Rivera, el líder indígena nicaragüense que fue detenido en 2023 y ahora está en un hospital con "ventilación mecánica"](https://www.bbc.com/mundo/articles/c3w2ywl2n0lo?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - El miércoles, el gobierno de Nicaragua informó que la condición de salud del líder indígena miskito Brooklyn Rivera Brayan es “delicada” y que presenta “falla de múltiples órganos”.
-- **[La restauración del monumento milenario más "obsceno" de Reino Unido](https://www.bbc.com/mundo/articles/cg7p4xkyxmno?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
-  - El personal y los voluntarios del National Trust extenderán unas 17 toneladas de tiza fresca sobre el contorno de la famosa figura.
-- **[100 años de Marilyn Monroe: su estrecha relación con México y otros 3 hechos de la vida de la icónica actriz que quizás no conocías](https://www.bbc.com/mundo/articles/ckgp13e1z96o?at_medium=RSS&at_campaign=rss)** · *2026-05-28*
-  - La vida de Marilyn Monroe tuvo episodios menos difundidos que ayudan a conocer a la actriz más allá de las cámaras y de su imagen de símbolo sexual.
+- **[Los 5 de Ulm: el controvertido juicio en Alemania que cuestiona el fuerte vínculo del país con Israel y la respuesta a las protestas a favor de los palestinos](https://www.bbc.com/mundo/articles/cpqp8y8zwqeo?at_medium=RSS&at_campaign=rss)** · *2026-05-30*
+  - Los cinco activistas, procedentes del Reino Unido, España, Irlanda y Alemania, están siendo juzgados con medidas de alta seguridad.
+- **["Mi hermano ahora es una persona completamente distinta": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina](https://www.bbc.com/mundo/articles/clyp8d390vro?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
+  - La hermana del influencer mexicano El Temach le dice a la BBC que ya no lo reconoce.
+- **[Quiénes son los principales candidatos para presidir Colombia y suceder a Petro](https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
+  - Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.
+- **[El canadiense que se declaró culpable de vender en internet sustancias tóxicas a personas que se querían suicidar en 41 países](https://www.bbc.com/mundo/articles/cpdp767j1w2o?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
+  - Las familias afirman que también debería ser imputado en Reino Unido, tras haber vendido sustancias letales a personas de todo el mundo, incluido el país europeo.
+- **[Quiénes fueron los herederos de Marilyn Monroe y cuánto dinero ganaron con los derechos de la imagen de la icónica actriz](https://www.bbc.com/mundo/articles/c8xw2xr2jxno?at_medium=RSS&at_campaign=rss)** · *2026-05-29*
+  - El patrimonio de Marilyn Monroe se ha multiplicado con creces en los más de 60 años que han pasado desde su muerte. ¿Quién lo controla actualmente?
 
 ## El País — Internacional
 
+- **[El frente invisible de Putin: drones, sabotajes y la guerra híbrida ponen a prueba a Europa](https://elpais.com/internacional/2026-05-30/el-frente-invisible-de-putin-drones-sabotajes-y-la-guerra-hibrida-ponen-a-prueba-a-europa.html)** · *2026-05-30*
+  - Mientras la guerra en Ucrania continúa, Rusia intensifica una campaña de presión encubierta sobre el flanco oriental de la OTAN que inquieta a gobiernos y servicios de inteligencia europeos
 - **[Dos heridos al impactar un dron ruso contra un edificio de viviendas en Rumania](https://elpais.com/internacional/2026-05-29/dos-heridos-al-impactar-un-dron-ruso-contra-un-edificio-en-rumania.html)** · *2026-05-29*
-  - Es el incidente más grave en suelo rumano desde el inicio de la guerra. La OTAN condena la “imprudencia” de Rusia, a la que acusa de no detenerse en la frontera ucrania. La UE denuncia que Moscú viola el espacio aéreo “con impunidad”
-- **[Israel bombardea Beirut mientras genera un nuevo éxodo en Líbano](https://elpais.com/internacional/2026-05-28/israel-bombardea-beirut-mientras-genera-un-nuevo-exodo-en-libano.html)** · *2026-05-28*
-  - La escalada militar sobre Tiro y el sur expulsa una vez más a miles de libaneses a la espera de que los dos países retomen contactos
-- **[Estados Unidos afirma que ha acordado con Irán una prórroga del alto el fuego, pero Teherán lo niega](https://elpais.com/internacional/2026-05-28/estados-unidos-afirma-que-ha-acordado-con-iran-una-prorroga-del-alto-el-fuego-pero-teheran-lo-niega.html)** · *2026-05-28*
-  - Fuentes de la Casa Blanca aseguran que el borrador de memorando, aún pendiente del visto bueno de Trump, extendería la tregua 60 días y supondría la reapertura de Ormuz
+  - El Gobierno rumano cree que el aparato entró en el país al ver alterada su trayectoria tras ser alcanzado por las defensas ucranias. Es el incidente más grave en el país desde el inicio de la guerra. La OTAN condena la “imprudencia” del…
+- **[Israel amplía la ocupación del sur del Líbano más allá del río Litani por primera vez](https://elpais.com/internacional/2026-05-29/israel-amplia-la-ocupacion-del-sur-del-libano-mas-alla-del-rio-litani-por-primera-vez.html)** · *2026-05-29*
+  - El gobierno libanés exige al israelí un alto el fuego completo como “requisito indispensable” para avanzar en las negociaciones
+- **[La jubilación de los bandidos](https://elpais.com/opinion/2026-05-30/la-jubilacion-de-los-bandidos.html)** · *2026-05-30*
+  - La arrogancia de clase y la jactancia de algunos privilegiados avivaron el iluminismo de los grupos terroristas europeos
 - **[Conocer a los rusos](https://elpais.com/opinion/2026-05-29/conocer-a-los-rusos.html)** · *2026-05-29*
   - La Unión Europea descarta mediar entre Moscú y Kiev para que termine la guerra en Ucrania mientras Putin continúa imperturbable con su ofensiva
-- **[¿Qué hace Gandalf en la encíclica de León XIV sobre la inteligencia artificial?](https://elpais.com/internacional/2026-05-28/que-hace-gandalf-en-la-enciclica-de-leon-xiv-sobre-la-inteligencia-artificial.html)** · *2026-05-28*
-  - El Papa hizo referencia al mago de ‘El señor de los anillos’, una obra que en realidad describe los horrores y los cambios del siglo XX
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -56,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
-- **[Marilyn Monroe at 100: Hollywood made her a myth – she spent her life resisting it](https://theconversation.com/marilyn-monroe-at-100-hollywood-made-her-a-myth-she-spent-her-life-resisting-it-281289)** · *2026-05-29*
-  - As we approach the centenary of Monroe’s birth, the image that endures in the public imagination has been largely stripped of voice and agency.
-- **[A dangerous dam-building race is threatening South Asia’s shared rivers](https://theconversation.com/a-dangerous-dam-building-race-is-threatening-south-asias-shared-rivers-283878)** · *2026-05-29*
-  - Bangladesh’s planned Padma Barrage may repeat mistakes made by India when it dammed the Ganges.
-- **[Why Africa – and the world – remain dangerously unprepared for the next pandemic](https://theconversation.com/why-africa-and-the-world-remain-dangerously-unprepared-for-the-next-pandemic-283787)** · *2026-05-29*
-  - The steps set out in the report on global pandemic preparedness are vitally important for managing future outbreaks.
-- **[Better patient-nurse relationships can transform mental health care – and make hospital stays shorter](https://theconversation.com/better-patient-nurse-relationships-can-transform-mental-health-care-and-make-hospital-stays-shorter-283948)** · *2026-05-29*
-  - Our study found a way to shorten hospital stays in mental health units by multiple days.
-- **[Is the ‘Quad’ dying a slow death? Even with Trump, it still has a vital role to play](https://theconversation.com/is-the-quad-dying-a-slow-death-even-with-trump-it-still-has-a-vital-role-to-play-284060)** · *2026-05-29*
-  - The Quad leaders may not meet again this year, but that doesn’t mean the partnership is any weaker than it used to be.
+- **[What’s wrong with how US and Uganda plan to stop Ebola spreading](https://theconversation.com/whats-wrong-with-how-us-and-uganda-plan-to-stop-ebola-spreading-284015)** · *2026-05-29*
+  - Geography may not provide meaningful protection once an outbreak is already underway.
+- **[Blue Origin rocket exploded on launchpad, throwing the future of NASA’s Artemis program into question](https://theconversation.com/blue-origin-rocket-exploded-on-launchpad-throwing-the-future-of-nasas-artemis-program-into-question-284133)** · *2026-05-29*
+  - NASA has several contracts with Blue Origin as part of its Artemis program – this setback for the company could delay the program.
+- **[Thinking about selling clothes on Vinted? The steps you can take to make this a greener option](https://theconversation.com/thinking-about-selling-clothes-on-vinted-the-steps-you-can-take-to-make-this-a-greener-option-280437)** · *2026-05-29*
+  - Reselling clothes might seem like a green option, but it is not as simple as it sounds.
+- **[Why students still face a postcode lottery in university wellbeing support](https://theconversation.com/why-students-still-face-a-postcode-lottery-in-university-wellbeing-support-266124)** · *2026-05-29*
+  - Engagement in mental health frameworks is voluntary – but in Wales, that’s changing.
+- **[Climate change: how fires and floods are creating uninsurable areas across Europe](https://theconversation.com/climate-change-how-fires-and-floods-are-creating-uninsurable-areas-across-europe-283181)** · *2026-05-29*
+  - From California to France and the UK, traditional private markets are buckling under the weight of climate claims.
 
 ## Nueva Sociedad
 
