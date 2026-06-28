@@ -6,7 +6,7 @@ title: Actualidad
 
 Últimos titulares de fuentes que dictan agenda en ciencia política y geopolítica. Actualizado automáticamente cada día (vía GitHub Actions).
 
-_Última actualización: 2026-06-27 08:32 UTC_
+_Última actualización: 2026-06-28 08:46 UTC_
 
 !!! tip "Ritual mensual — #actualidad"
     El último sábado de cada mes: agarrá **un** titular de los de abajo y escribí **300 palabras** aplicándole **2 autores** del último mes que leíste. ¿Qué diría cada uno? ¿En qué chocan? No resumas la noticia — usala como caso para pensar con las herramientas que venís construyendo. Guardá el texto con el tag `#actualidad` en tu sistema de notas. Esto convierte la teoría en criterio sobre la coyuntura: el objetivo del plan no es citar a Maquiavelo, es leer el presente con él.
@@ -17,29 +17,29 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.realinstitutoelcano.
 
 ## BBC News Mundo
 
-- **[Qué es lo último sobre los terremotos en Venezuela que han dejado ya casi 1.000 muertos y más de 3.300 heridos](https://www.bbc.com/mundo/articles/cx2kp8k4pjyo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
+- **[En Caracas parece que se vive el peor momento de la historia reciente de Venezuela tras los devastadores terremotos](https://www.bbc.com/mundo/articles/c4gy9qvx55eo?at_medium=RSS&at_campaign=rss)** · *2026-06-28*
+  - Los equipos de emergencia siguen buscando sobrevivientes, pero mientras se reduce la esperanza, crece la indignación.
+- **["Hay olor... ya se están sintiendo los fallecidos": la desolación en La Guaira mientras esperan más ayuda en medio de la devastación](https://www.bbc.com/mundo/articles/c79yxv8p5ydo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
+  - Esta zona costera ha sido la más fuertemente afectada por los sismos y los vecinos intentan, como pueden, encontrar sobrevivientes mientras llegan equipos de rescate.
+- **[Qué es lo último sobre los terremotos en Venezuela que han dejado al menos 1.400 muertos y más de 3.200 heridos](https://www.bbc.com/mundo/articles/cx2kp8k4pjyo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
   - La cifra de muertos y heridos va en aumento con el paso de las horas y a medida que los equipos de rescate llegan a algunas de las zonas más afectadas.
-- **[Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)](https://www.bbc.com/mundo/articles/cpv3d2ynz7xo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
-  - La geología y la historia del país explican su vulnerabilidad ante la amenaza sísmica.
-- **[Imágenes satelitales del antes y el después muestran la devastación causada por el doble terremoto en Venezuela](https://www.bbc.com/mundo/articles/cy49pkzv9vyo?at_medium=RSS&at_campaign=rss)** · *2026-06-26*
-  - Las imágenes de La Guaira, tomadas días o semanas antes del desastre, comparadas con las tomadas después revelan la magnitud de la devastación causada por los terremotos.
-- **["Le contaré cómo la salvaste": la emotiva despedida a una joven madre que murió protegiendo a su hija en los terremotos de Venezuela](https://www.bbc.com/mundo/articles/c79yxwey9q8o?at_medium=RSS&at_campaign=rss)** · *2026-06-26*
-  - En un mensaje en redes sociales, Héctor Bello escribió que su esposa dio su propia vida por su hija durante los terremotos que causaron la muerte de al menos 920 personas.
-- **["Hospitales completamente desbordados": cómo el terremoto pone más presión al ya deteriorado sistema de salud de Venezuela](https://www.bbc.com/mundo/articles/c74yj2zmgjxo?at_medium=RSS&at_campaign=rss)** · *2026-06-26*
-  - Las ya debilitadas infraestructuras médicas del país y su escasez de recursos no solo se ponen a prueba con la emergencia sanitaria tras los terremotos.
+- **[La conmovedora historia del bebé de 18 días y su madre que fueron rescatados de entre los escombros tras el terremoto doble en Venezuela](https://www.bbc.com/mundo/articles/cqx1q3q7z2wo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
+  - A pesar de la devastación, familiares, vecinos y amigos siguen removiendo escombros en busca de sobrevivientes y en este caso el resultado fue feliz.
+- **[El gobierno de Venezuela describe los terremotos como "el evento más fatídico que haya sufrido esta República en los últimos 123 años"](https://www.bbc.com/mundo/articles/cly8dz7xp2jo?at_medium=RSS&at_campaign=rss)** · *2026-06-27*
+  - El dirigente chavista Jorge Rodríguez pide a la población que evite desplazarse a las zonas más afectadas para no dificultar las labores de rescate.
 
 ## El País — Internacional
 
-- **[Estados Unidos lanza nuevos ataques contra Irán tras el golpe a un carguero](https://elpais.com/internacional/2026-06-26/iran-trata-de-mantener-el-control-sobre-ormuz-mientras-trump-le-acusa-de-violar-el-alto-el-fuego.html)** · *2026-06-26*
-  - La Organización Marítima Internacional negocia garantías con Irán, que está amenazando a los buques que utilicen la ruta de Omán, para retomar su plan de evacuación tras el ataque del jueves a un carguero
-- **[Israel y Líbano firman un acuerdo marco de paz en Washington](https://elpais.com/internacional/2026-06-26/israel-y-libano-firman-un-acuerdo-marco-de-paz-en-washington.html)** · *2026-06-26*
-  - Hezbolá ha rechazado de inmediato el documento, por el que Israel empezará la retirada de dos “zonas piloto”. La negativa del grupo chií pone en duda si el pacto llegará a aplicarse
-- **[Milagro en la iglesia de La Guaira: “Dios quiso que nos salváramos”](https://elpais.com/america/2026-06-27/milagro-en-la-iglesia-de-la-guaira-dios-quiso-que-nos-salvaramos.html)** · *2026-06-27*
-  - El terremoto de Venezuela irrumpió en medio de una misa evangélica. La iglesia, en el epicentro de la tragedia, quedó destruida, pero todos los feligreses se salvaron
+- **[Venezuela afronta la catástrofe con el Estado sobrepasado](https://elpais.com/internacional/2026-06-28/venezuela-afronta-la-catastrofe-con-el-estado-sobrepasado.html)** · *2026-06-28*
+  - Tutelado por Estados Unidos, sin libre acceso a sus ingresos y con un sistema que ya operaba al límite, el país sudamericano afronta sus horas más difíciles
+- **[Ansiedad y desconcierto en los hospitales venezolanos: “No sabemos a quién creer”](https://elpais.com/internacional/2026-06-28/ansiedad-y-desconcierto-en-los-hospitales-venezolanos-no-sabemos-a-quien-creer.html)** · *2026-06-28*
+  - Los centros de Caracas, precarios y al borde de la saturación, hacen malabares para atender a la gran cantidad de heridos, mientras los familiares reciben información con cuentagotas
+- **[La fuerza solidaria forjada durante años de adversidad en Venezuela: “Aquí nos unimos todos”](https://elpais.com/america/2026-06-28/la-fuerza-solidaria-forjada-durante-anos-de-adversidad-en-venezuela-aqui-nos-unimos-todos.html)** · *2026-06-28*
+  - El Gobierno pone freno a los envíos de ayuda humanitaria ante el colapso de la carretera que conecta Caracas con La Guaira, la zona más afectada
+- **[Invisibles y perdedores de todas las guerras](https://elpais.com/internacional/2026-06-28/invisibles-y-perdedores-de-todas-las-guerras.html)** · *2026-06-28*
+  - El liderazgo trumpista es garantía de cualquier cosa menos la paz. Nada termina y siempre deja a medio hacer lo más sustancial e importante, en Gaza, Líbano o Ucrania
 - **[Crimea, del éxito a la desgracia](https://elpais.com/internacional/2026-06-26/crimea-del-exito-a-la-desgracia.html)** · *2026-06-26*
   - La rápida ocupación de la península ucrania en 2014 por parte del Kremlin choca ahora con la ofensiva de Kiev
-- **[Los revolucionarios cubanos](https://elpais.com/opinion/2026-06-26/los-revolucionarios-cubanos.html)** · *2026-06-26*
-  - Miguel Díaz-Canel asegura que su Gobierno seguirá defendiendo el socialismo a través de las 176 medidas que abren la isla al mercado y acaban con el igualitarismo
 
 ## Le Monde Diplomatique (Cono Sur)
 
@@ -47,16 +47,16 @@ _Sin datos en esta ejecución. Visitar fuente: [https://www.eldiplo.org/feed/](h
 
 ## The Conversation — Global
 
+- **[Blaming migrants ignores the real causes of South Africa’s economic crisis](https://theconversation.com/blaming-migrants-ignores-the-real-causes-of-south-africas-economic-crisis-286157)** · *2026-06-28*
+  - The economic and social conditions in which anti-migrant sentiment has exploded in South Africa include high joblessness and a collapse of government services.
+- **[Karl Stefanovic’s podcast is not just a career change. It’s journalistic laundering](https://theconversation.com/karl-stefanovics-podcast-is-not-just-a-career-change-its-journalistic-laundering-286262)** · *2026-06-28*
+  - The Stefanovic saga represents a high-profile example of the transfer of journalism’s hard-earned credibility into a rapidly growing alternative media sphere.
+- **[Without Nine’s shackles, Karl Stefanovic is free to become a culture warrior hero](https://theconversation.com/without-nines-shackles-karl-stefanovic-is-free-to-become-a-culture-warrior-hero-286142)** · *2026-06-28*
+  - The former TV host can now follow a well-worn right-wing path in the US and UK. Getting fired was likely the best thing he could have done for his brand.
 - **[Aid is on the way after Venezuela’s earthquakes, but it’s not clear how quickly it can get there](https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206)** · *2026-06-26*
   - If you want to help, an aid expert advises you to donate cash to nonprofits involved in local rescue and recovery efforts.
 - **[Israel’s ‘campaign between the wars’: How strategy to contain Iran and its allies risks further straining ties with US](https://theconversation.com/israels-campaign-between-the-wars-how-strategy-to-contain-iran-and-its-allies-risks-further-straining-ties-with-us-284697)** · *2026-06-26*
   - Israel has long sought to gain a military advantage by degrading its adversaries’ military capabilities outside of times of direct conflict.
-- **[In 2 landmark decisions, the Supreme Court expands gun rights for concealed carry holders and casual drug users](https://theconversation.com/in-2-landmark-decisions-the-supreme-court-expands-gun-rights-for-concealed-carry-holders-and-casual-drug-users-286230)** · *2026-06-26*
-  - Two recent Supreme Court rulings suggest the high court is so pro-gun it has decided it must also be pro-drugs.
-- **[40°C in Paris: extreme summer heat is no longer exceptional for most of Europe](https://theconversation.com/40-c-in-paris-extreme-summer-heat-is-no-longer-exceptional-for-most-of-europe-286276)** · *2026-06-26*
-  - Europe is the fastest warming continent – almost all of its heat records have been broken in the 21st century.
-- **[What Gaudí and the Sagrada Família can teach us about leadership](https://theconversation.com/what-gaudi-and-the-sagrada-familia-can-teach-us-about-leadership-285610)** · *2026-06-26*
-  - 100 years after his death, Gaudí’s communal, service-based leadership still guides the construction team.
 
 ## Nueva Sociedad
 
